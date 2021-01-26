@@ -1,5 +1,5 @@
 # Hadoop Clone (Hidoop)
-a basic framework simlar to Hadoop
+a basic framework simliar to Hadoop
 
 ## Authors : 
 * [Mohamed Amine EL ALAOUI](https://www.linkedin.com/in/med-amine-elalaoui/)
